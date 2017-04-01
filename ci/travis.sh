@@ -13,7 +13,6 @@ chmod +x config-expect.sh
 
 ./po-util.sh install
 
-po lib clean
-#po lib get
-po lib add
+po lib clean -f
+po lib setup
 po photon build
