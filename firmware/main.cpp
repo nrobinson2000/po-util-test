@@ -1,4 +1,7 @@
 #include "neopixel/neopixel.h"
+
+lol error;
+
 /*-------------------------------------------------------------------------
   Spark Core, Particle Photon, P1, Electron and RedBear Duo library to control
   WS2811/WS2812 based RGB LED devices such as Adafruit NeoPixel strips.
